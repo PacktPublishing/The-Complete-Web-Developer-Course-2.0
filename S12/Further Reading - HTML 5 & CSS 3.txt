@@ -1,0 +1,23 @@
+HTML 5/CSS 3 Further Reading
+There are a range of websites introducing the features of HTML 5 and CSS 3. Here are a few of my favourites:
+http://caniuse.com/
+HTML 5 & CSS 3 Browser Support
+http://www.w3schools.com/tags/
+HTML 5 Tag Reference
+http://www.w3schools.com/html/html5_new_elements.asp
+HTML 5 New Tags Reference
+http://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520
+http://webdesign.about.com/od/html5/a/html_5_whats_new.htm
+http://www.htmlgoodies.com/html5/tutorials/HTML-5-Features-What-Web-Developers-Can-UseNOW-3880701.htm#fbid=yq0B7qPPS2Q
+http://www.developer.com/lang/slideshows/top-7-features-of-html5.html
+http://www.techrepublic.com/blog/10-things/10-new-html5-tags-you-need-to-know-about/
+New HTML 5 Features
+http://www.w3schools.com/cssref/
+CSS 3 Reference
+http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/
+http://www.webreference.com/authoring/css3/index.html
+http://www.w3schools.com/css/css3_intro.asp
+http://1stwebdesigner.com/css3-in-a-nutshell/
+https://www.smashingmagazine.com/2010/06/50-new-useful-css-techniques-tools-and-tutorials/
+http://code.tutsplus.com/tutorials/10-css3-properties-you-need-to-be-familiar-with--net-16417
+CSS 3 New Features

@@ -1,0 +1,19 @@
+Codes in action here:
+
+https://completewebdevelopercourse.com/content/10-html5css3/11.6.html
+
+
+<!doctype html>
+<html>
+	<head>
+    	<title>Other HTML 5 Features</title>
+    </head>
+    <body>
+      <figure>
+        <img src="images/sausage.png">          
+          <figcaption>
+                <p>Sausage</p>
+          </figcaption>
+		</figure>
+    </body>
+</html>

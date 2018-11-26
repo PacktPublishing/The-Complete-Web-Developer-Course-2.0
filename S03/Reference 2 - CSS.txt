@@ -1,0 +1,54 @@
+CSS Further Reading
+All websites mentioned in the tutorials are linked below, as well as a few others. Use them to learn more about
+the topics we have covered.
+1. What is CSS?
+- http://www.w3schools.com/css/css_intro.asp
+- http://en.wikipedia.org/wiki/Cascading_Style_Sheets
+- http://html.net/tutorials/css/lesson1.php
+2. Inline CSS
+- http://www.w3schools.com/css/css_howto.asp
+3. Internal CSS – Classes and IDs
+- http://www.w3schools.com/cssref/css_selectors.asp
+- http://css-tricks.com/the-difference-between-id-and-class/
+- http://htmldog.com/guides/css/intermediate/classid/
+4. Divs
+- http://www.w3schools.com/tags/tag_div.asp
+- http://gostats.com/resources/css-div-tutorial.html
+5. HTML Color Codes
+- http://html-color-codes.info/
+- http://www.w3schools.com/html/html_colors.asp
+- http://www.w3schools.com/html/html_colornames.asp
+6. Floating
+- http://www.w3schools.com/css/css_float.asp
+- http://www.w3schools.com/cssref/pr_class_float.asp
+- http://css-tricks.com/all-about-floats/
+7. Positioning
+- http://www.w3schools.com/css/css_positioning.asp
+- http://www.barelyfitz.com/screencast/html-training/css/positioning/
+- http://alistapart.com/article/css-positioning-101
+8. Margins
+- http://www.w3schools.com/css/css_margin.asp
+- http://www.w3schools.com/cssref/pr_margin.asp
+- http://www.htmldog.com/guides/css/beginner/margins/
+9. Padding
+- http://www.w3schools.com/css/css_padding.asp
+- http://www.w3schools.com/cssref/pr_padding.asp
+10. Borders
+- http://www.w3schools.com/css/css_border.asp
+- http://www.w3schools.com/css/css3_borders.asp
+- http://www.w3schools.com/cssref/pr_border-style.asp
+11. Fonts
+- http://www.w3schools.com/css/css_font.asp
+- http://www.w3schools.com/cssref/css_websafe_fonts.asp
+- https://www.google.com/fonts
+12. Styling Text
+- http://www.w3schools.com/css/css_text.asp
+- http://csstxt.com/
+13. Aligning Text
+- http://www.w3schools.com/cssref/pr_text_text-align.asp
+- http://www.w3schools.com/css/css_align.asp
+14. Styling Links
+- http://www.w3schools.com/css/css_link.asp
+- http://www.w3schools.com/cssref/sel_link.asp
+15. External CSS
+- http://www.w3schools.com/css/css_howto.asp

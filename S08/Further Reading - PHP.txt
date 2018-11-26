@@ -1,0 +1,12 @@
+PHP Further Reading
+php.net is the official PHP website, and http://www.php.net/manual/en/ is a good starting point for research
+(although just building a site of your own is better!).
+Here are some links for you to learn more about PHP:
+http://overapi.com/php/
+https://www.addedbytes.com/cheat-sheets/php-cheat-sheet/
+PHP Cheat Sheets
+http://www.php.net/manual/en/history.php.php
+The History Of PHP
+http://www.homeandlearn.co.uk/php/php1p2.html
+http://php.about.com/od/learnphp/a/Getting-Started-With-Php.htm
+PHP Introductory Guides 

@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+	<head>
+    	<title>Internal CSS</title>
+    </head>
+    <body>
+    	<p style="color:red;">Hello World</p>
+    </body>
+</html>

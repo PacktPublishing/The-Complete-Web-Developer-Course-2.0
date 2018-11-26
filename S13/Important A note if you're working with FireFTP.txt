@@ -1,0 +1,5 @@
+Important: A note if you're working with FireFTP
+Section 13, Lecture 286
+Some students have reported receiving the error ‘No such file or directory: exec failed (helloworld.py)’ on the next project. This looks to be caused if you're work on a Windows computer and use FireFTP to create the python scripts as the file is being saved with a Windows carriage returns (the instruction to the software to start a new line) and will not be parsed correctly on the web servers.
+
+Copying over the exact same code but creating through the File Manager, or Brackets and uploading it to the webspace will to resolve this.

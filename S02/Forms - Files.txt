@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+    <head>
+	    <title>Forms</title>
+    </head>
+    <body>
+    	<form>
+        	<p>Name: <type ="text"></p>
+           		<p>Age: <input type="number"></p>
+        	<p>Favourite colour:
+            	<select>
+        			<option>red</option>
+            		<option>yellow</option>
+            		<option>green></option>
+             	</select>
+        	</p>
+        </form>
+    </body>
+</html>

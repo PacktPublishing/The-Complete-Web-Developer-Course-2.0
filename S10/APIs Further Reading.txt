@@ -1,0 +1,15 @@
+APIs Further Reading
+APIs are everywhere - if you want to work with a particular service, just google ‘[web service] api’ to get started.
+Here are some links to get you going.
+httpsdevelopers.google.commaps
+Google Maps API
+httpsdev.twitter.com
+Twitter API
+httpsdevelopers.facebook.com
+Facebook API
+httpswww.flickr.comservicesapi
+Flickr API
+httpinstagram.comdeveloper
+Instagram API
+httpsdeveloper.foursquare.com
+Foursquare API 

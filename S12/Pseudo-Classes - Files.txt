@@ -1,0 +1,24 @@
+Codes in action here:
+
+https://completewebdevelopercourse.com/content/10-html5css3/11.9.html
+
+
+<!doctype html>
+<html>
+	<head>
+    	<title>Pseudo Classes</title>
+        <style>
+
+        </style>
+    </head>
+    <body>
+		<table>
+        	<tr><td>One</td></tr>
+            <tr><td>Two</td></tr>
+            <tr><td>Three</td></tr>
+            <tr><td>Four</td></tr>
+            <tr><td>Five</td></tr>
+            <tr><td>Six</td></tr>
+        </table>
+    </body>
+</html>

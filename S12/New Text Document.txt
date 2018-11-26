@@ -1,0 +1,12 @@
+doctype html>
+<html>
+	<head>
+    	<title>HTML 5 - Form Features</title>
+    </head>
+    <body>
+		<form id="myForm" action="submit.php">
+        	<p>Name: <input id="name" type="text"></p>
+        	<p>Age:	<input type="text" pattern="[0-9]"></p>
+        </form>
+    </body>
+</html>

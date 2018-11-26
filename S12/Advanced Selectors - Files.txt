@@ -1,0 +1,20 @@
+Codes in action here:
+
+https://completewebdevelopercourse.com/content/10-html5css3/11.8.html
+
+
+<!doctype html>
+<html>
+	<head>
+    	<title>Advanced selectors</title>
+        <style>
+        
+        </style>
+    </head>
+    <body>
+      <h1>A heading</h1>
+        <a href="http://google.com">I am a link</a>
+        <a href="http://wikipedia.com">I am another link</a>
+        <a href="http://google.com">I am the thrid link</a>
+    </body>
+</html>

@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+	<head>
+    	<title>Colors</title>
+        <style type="text/css">   
+			#black {
+            	
+            }
+			#white {
+            	
+            }
+        </style>
+        </head>
+    <body>
+    	<div id="background">
+    		<p id="black">This is a paragraph</p>
+        	<p id="white">This is another paragraph!</p>
+        </div>
+    </body>
+</html>

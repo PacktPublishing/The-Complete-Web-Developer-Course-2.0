@@ -1,0 +1,6 @@
+<!doctype html>
+<html>
+	<title>Images</title>
+    	<body>
+    	</body>
+</html>

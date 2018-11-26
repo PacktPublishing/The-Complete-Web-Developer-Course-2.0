@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+	<head>
+    	<title>Borders</title>
+        <style type="text/css">   
+            #box {
+            }
+			#circle {
+            }
+        </style>
+        </head>
+    <body>
+		<div id="box">Box</div>
+        <div id="circle">Circle</div>
+    </body>
+</html

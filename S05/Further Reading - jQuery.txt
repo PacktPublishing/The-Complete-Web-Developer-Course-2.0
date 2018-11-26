@@ -1,0 +1,12 @@
+jQuery Further Reading
+As with most programming languages, the best way to learn jQuery is to start writing code to do something.
+When you hit something you don’t know how to do, just google ‘[thing you want to do] jquery’ and you’ll
+probably find a guide!
+Having said that, if you want to read a bit more about jQuery and the functions we’ve looked at, try these sites:
+http://learn.jquery.com/
+Official jQuery introduction site
+http://oscarotero.com/jquery/
+http://www.javascripttoolbox.com/jquery/cheatsheet/
+jQuery Cheat Sheets
+http://www.w3schools.com/jQuery/
+jQuery Tutorial 

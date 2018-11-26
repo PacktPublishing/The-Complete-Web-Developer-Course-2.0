@@ -1,0 +1,13 @@
+Python Further Reading
+As always, the best way to learn Python is to start building something (and maybe buy a Raspberry Pi!), but
+these sites will get you started:
+https://www.python.org/about/gettingstarted/
+https://wiki.python.org/moin/BeginnersGuide
+code.tutsplus.com/articles/python-from-scratch-getting-started--net-19909
+Beginners Guides
+https://docs.djangoproject.com/en/1.9/intro/
+http://www.pylonsproject.org/projects/pyramid/about
+http://bottlepy.org/docs/dev/index.html
+http://flask.pocoo.org/
+http://www.sixfeetup.com/blog/4-python-web-frameworks-compared
+Python Web Frameworks 

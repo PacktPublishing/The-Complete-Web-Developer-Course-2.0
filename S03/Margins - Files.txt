@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+	<head>
+    	<title>Positioning</title>
+        <style type="text/css">   
+			#box {
+            }
+        </style>
+        </head>
+    <body>
+		<div id="box">Box</div>
+    </body>
+</html>

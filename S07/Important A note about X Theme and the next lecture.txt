@@ -1,0 +1,6 @@
+Important: A note about X Theme and the next lecture
+Section 7, Lecture 177
+Since the recording of the next video lecture there has been a slight change to the X Theme settings due to updates.
+
+The Cornerstone plugin mentioned is installed by default.
+Portfolio and blog don’t show by default as per course the next video. To get extra pages to show on the menu go to Appearance > Customise > Menus - Under the X Demo Menu click ‘add items’ to add extra pages.

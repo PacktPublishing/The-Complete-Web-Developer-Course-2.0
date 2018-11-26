@@ -1,0 +1,33 @@
+Frequently Asked Questions
+Section 1, Lecture 6
+There are some questions I get asked a lot on the course, so I've copied some of them below. You can see a full list of questions at httpcodeschool.org.ukfaq.php - please check there before posting in the forums or emailing.
+
+How do I get the cool free stuff
+
+This is explained in lecture 4. In short, go to ecowebhosting.co.ukcpwebdev2 to sign up for the hosting and you'll be given links to all the extras.
+
+Can I download all the course materials
+
+Each of the course materials is downloadable from the links in the course, but you can also access or download everything at once from httpsdrive.google.comopenid=0B0QJD6cbZvLhVF9lMW9GOWQwQzg.
+
+Can I download the course videos
+
+Yes, you can download the course videos using the Udemy iPhoneiPad and Android apps. You cannot download the videos to a PC at this time.
+
+I'm having problems playing the videos
+
+Please try using a different browser andor internet connection. If that doesn't help, please follow these suggestions httpssupport.udemy.comhcen-usarticles229231227-Video-Playback-Issues and if those suggestions don't help contact Udemy, as I don't control the Udemy website.
+
+How long does my free web hosting last
+
+Your web hosting lasts for 12 months. This is limited to one year per student, so buying multiple courses will not get you an extra year I'm afraid.
+
+There's a bugerror in one of the videos! What should I do
+
+I maintain a bug report doc at httpsdocs.google.comspreadsheetsd1xqFnzC80KD5sEC58LjNIBZtJ6gPBcl_32wmaoCMJiToedit#gid=0 - please post a comment there under the Web Dev Course 2.0 Issues tab and I'll get to it ASAP.
+
+Please can I have a refund
+
+Absolutely - you can do this up to 30 days after buying the course through Udemy directly via httpssupport.udemy.comcustomerportalarticles1507981-can-i-get-a-refund-b_id=3056
+
+Now on to the course!

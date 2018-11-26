@@ -1,0 +1,30 @@
+HTML Further Reading
+All websites mentioned in the tutorials are linked below, as well as a few others. Use them to learn more about
+the topics we have covered.
+1. Your First Website
+- http://www.example.com
+- http://www.w3schools.com/
+2. Web Page Structure
+- http://www.example.com
+3. Header Tags
+- http://www.w3schools.com/html/html_headings.asp
+4. Formatting Text
+- http://www.w3schools.com/css/css_text.asp
+- http://www.w3schools.com/html/html_formatting.asp
+5. Unordered Lists
+- http://www.w3schools.com/tags/tag_ul.asp
+- http://www.w3schools.com/html/html_lists.asp
+Images
+- http://www.w3schools.com/html/html_images.asp
+- http://www.w3schools.com/tags/tag_img.asp
+Forms
+- http://www.w3schools.com/html/html_forms.asp
+- http://www.w3.org/TR/html401/interact/forms.html
+Links
+- http://www.w3schools.com/html/html_links.asp
+- http://www.w3schools.com/tags/tag_a.asp
+Tables
+- http://www.w3schools.com/html/html_tables.asp
+- http://www.w3schools.com/tags/tag_table.asp
+IFrames
+- http://www.w3schools.com/tags/tag_iframe.asp

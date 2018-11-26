@@ -1,0 +1,12 @@
+MySQL Further Reading
+The official MySQL site is http://www.mysql.com/, but I wouldn’t start there. Try building something and
+googling as you go, but if you want some more detailed information, check out these links.
+https://en.wikibooks.org/wiki/MySQL/CheatSheet
+http://www.mysqltutorial.org/mysql-cheat-sheet.aspx
+MySQL Cheat Sheets
+http://wiki.gentoo.org/wiki/MySQL/Startup_Guide
+MySQL Setup Guide (for self-install)
+http://www.mysqltutorial.org/
+http://www.tutorialspoint.com/mysql/
+http://www.tizag.com/mysqlTutorial/
+MySQL Tutorials 

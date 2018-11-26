@@ -1,0 +1,11 @@
+Note On Firefox Versions
+Section 2, Lecture 40
+As mentioned in the previous lecture, the videos in this course use Firefox and FireFTP, which has since been discontinued. I recommend using Filezilla as described in the previous lecture, as the process for managing your files is almost identical to FireFTP. 
+
+However, if you want to have exact same experience as in the videos, you will need to use download Firefox 56.0 from the official website here or from our Google Drive link here.
+
+I've left in the videos showing how to set up Fire FTP, but unless if you are planning to use Filezilla (as recommended) you can move straight on to the Further Reading lecture.
+
+Happy coding,
+
+Rob

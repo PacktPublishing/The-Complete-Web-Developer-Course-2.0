@@ -1,0 +1,27 @@
+Mobile Apps Further Reading
+There are a number of ways to build HTML-based mobile apps, and a range of frameworks to use. My
+favourites are listed below.
+http://code.kik.com/app/3/index.html
+http://jquerymobile.com/
+http://ionicframework.com/
+http://phonejs.devexpress.com/
+http://www.sencha.com/products/touch/
+Mobile App Frameworks
+http://html5hub.com/comparing-html5-mobile-ui-frameworks/#i.1h9ot5y14a3d8a
+A Comparison Of Different Frameworks
+https://build.phonegap.com/
+Phonegap Build
+http://cordova.apache.org/
+Cordova
+http://cordova.apache.org/docs/en/2.5.0/guide_getting-started_android_index.md.html
+Cordova Android Setup Guide
+http://cordova.apache.org/docs/en/2.5.0/guide_getting-started_ios_index.md.html
+Cordova iOS Setup Guide
+https://play.google.com/apps/publish/
+http://help.como.com/Submit-My-App/Submit-to-Google-Play/31189513/How-do-I-submit-my-app-to-GooglePlay.htm
+Submitting Your Apps To Google Play 
+https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/
+SubmittingYourApp/SubmittingYourApp.html
+http://code.tutsplus.com/tutorials/how-to-submit-an-ios-app-to-the-app-store--mobile-16812
+http://www.makeuseof.com/tag/submit-app-itunes-app-store/
+Submitting Your Apps To The iOS App Store 

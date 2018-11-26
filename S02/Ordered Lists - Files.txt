@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <body>
+    	<ul>
+        	<li>Red</li>
+            <li>Yellow</li>
+            <li>Blue</li>
+        </ul>
+    </body>
+</html>

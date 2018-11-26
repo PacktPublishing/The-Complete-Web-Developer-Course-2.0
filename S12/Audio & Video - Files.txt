@@ -1,0 +1,11 @@
+!doctype html>
+<html>
+	<head>
+    	<title>Audio and Video</title>
+    </head>
+    <body>
+
+        	<source src="video.mp4" type="video/mp4">
+
+    </body>
+</html>
